@@ -1,2 +1,7 @@
 # Power-BI-Projects
-This includes the projects that I have done using Microsoft Power BI. 
+This includes a number of visualisations created using Microsoft Power BI.
+
+Projects include:
+- Data Professional Survey Breakdown
+- IKEA Sales Dashboard (2014-2017)
+- Credit Card Customers' Analysis 
