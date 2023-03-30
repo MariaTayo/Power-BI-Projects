@@ -4,4 +4,4 @@ This includes a number of visualisations created using Microsoft Power BI.
 Projects include:
 - Data Professional Survey Breakdown
 - IKEA Sales Dashboard (2014-2017)
-- Credit Card Customers' Analysis 
+- Credit Card Customers' Churn Analysis 
