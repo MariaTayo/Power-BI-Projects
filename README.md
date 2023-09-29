@@ -1,5 +1,5 @@
 # Power-BI-Projects
-This includes a number of visualisations created using Microsoft Power BI.
+This includes a number of visualisations/dashboards created using Microsoft Power BI.
 
 Projects include:
 - Data Professional Survey Breakdown
